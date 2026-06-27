@@ -258,6 +258,3 @@ Built during the **NeuroX Hackathon 2026** by Team **3 Musketeers**.
 ## 📜 License
 
 MIT License
-## 📜 License
-
-MIT License
